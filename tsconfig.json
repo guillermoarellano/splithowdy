@@ -19,7 +19,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "splithowdy-ui": [
+        "dist/splithowdy-ui/splithowdy-ui",
+        "dist/splithowdy-ui"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
