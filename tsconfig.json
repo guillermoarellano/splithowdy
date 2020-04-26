@@ -21,9 +21,8 @@
       "dom"
     ],
     "paths": {
-      "splithowdy-ui": [
-        "dist/splithowdy-ui/splithowdy-ui",
-        "dist/splithowdy-ui"
+      "splithowdy-ui/*": [
+        "projects/splithowdy-ui/src/*"
       ]
     }
   },
