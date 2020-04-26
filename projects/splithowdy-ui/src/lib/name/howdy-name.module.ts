@@ -6,6 +6,7 @@ import { HowdyNameComponent } from './howdy-name.component';
 
 @NgModule({
   declarations: [HowdyNameComponent],
+  exports: [HowdyNameComponent],
   imports: [
     CommonModule
   ]
