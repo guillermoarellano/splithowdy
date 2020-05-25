@@ -22,7 +22,7 @@
     ],
     "paths": {
       "splithowdy-ui/*": [
-        "projects/splithowdy-ui/src/*"
+        "projects/splithowdy-ui/*/index"
       ]
     }
   },

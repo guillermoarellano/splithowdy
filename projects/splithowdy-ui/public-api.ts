@@ -2,5 +2,5 @@
  * Public API Surface of splithowdy-ui
  */
 
-export * from './src/lib/name';
-export * from './src/lib/time';
+export * from 'splithowdy-ui/name';
+export * from 'splithowdy-ui/time';
