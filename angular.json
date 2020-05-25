@@ -24,7 +24,7 @@
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
-            "main": "projects/splithowdy-ui/src/test.ts",
+            "main": "projects/splithowdy-ui/test.ts",
             "tsConfig": "projects/splithowdy-ui/tsconfig.spec.json",
             "karmaConfig": "projects/splithowdy-ui/karma.conf.js"
           }
